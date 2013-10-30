@@ -1,15 +1,3 @@
----------- Forwarded message ----------
-From: Dazza Greenwood <dazza@civics.com>
-Date: Wed, Oct 30, 2013 at 12:28 PM
-Subject: GitHub basic flow for open (everything) policy is LIVE:
-To: "Osgood, Chris" <Chris.Osgood@cityofboston.gov>
-Cc: "Jacob, Nigel" <Nigel.Jacob@cityofboston.gov>
-
-
-Hi guys,
-
-I've got the basic flow figured out for GitHub (I think) at prototyped at:
-https://github.com/OpenGovCoop/OpenInnovationFramework/blob/master/OpenInnovationFramework.md
 
 
 #1. The "Policy" Part of the GitHub Enabled Policy
