@@ -27,9 +27,9 @@ Now therefore, the City of Boston Chief Information Officer (“CIO”), in cons
 
 - This policy includes:
  - the standards that will govern the City’s selection of an appropriate open source license;
- - OpenSourceLicenseGuidelines.md;
  - sample alternative licenses that can be used for special cases.
- 
+ - the City of Boston "ShareBack" provision describing how to notify and provide innovative modifications or new code to the larger community;
+
 #[Guidelines on Use of GitHub for Policy Maintanance and Public Engagement](GitPol.md);
 
 
