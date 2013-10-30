@@ -21,9 +21,9 @@ Now therefore, the City of Boston Chief Information Officer (“CIO”), in cons
  4.      guidelines for compliance with legal or other rules requiring the sharing of Protected Data with authorized parties upon the grant of consent, by operation of law or when otherwise so required;
  5.      a method to ensure approval by the Corporation Counsel of the City of Boston obtains to Protected Data disclosed in accordance with the Policy.
  
-- Open Source License Policy:  This policy includes:
+- [Open Source License Policy](OpenSourceLicenseGuidelines.md);:  This policy includes:
  - the standards that will govern the City’s selection of an appropriate open source license;
- - [the default license for the City’s open source software](OpenSourceLicenseGuidelines.md);
+ - OpenSourceLicenseGuidelines.md;
  - sample alternative licenses that can be used for special cases.
 
 In keeping with the intent of these documents, these policies will be hosted on GitHub – or similar public site – so that interested parties can read them, recommend edits, and reuse them as interested.
