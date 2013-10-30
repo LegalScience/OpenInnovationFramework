@@ -29,8 +29,12 @@ Now therefore, the City of Boston Chief Information Officer (“CIO”), in cons
  - the standards that will govern the City’s selection of an appropriate open source license;
  - OpenSourceLicenseGuidelines.md;
  - sample alternative licenses that can be used for special cases.
+ - 
+ 
+#[Guidelines on Use of GitHub for Policy Maintanance and Public Engagement](GitPol.md);
 
-In keeping with the intent of these documents, these policies will be hosted on GitHub – or similar public site – so that interested parties can read them, recommend edits, and reuse them as interested.
+
+In keeping with the intent of these documents, these policies will be hosted on GitHub – or similar public site – so that interested parties can read them, recommend edits, and reuse them as appropriate.
 
 -------
 [Credits and Attributions](credits.md)
