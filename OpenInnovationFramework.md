@@ -1,4 +1,4 @@
-Statement of Intent
+#Statement of Intent
 
 Whereas, it is the policy of the City of Boston to practice Open Government, favoring participation, transparency, collaboration and engagement with the people of the City and it’s stakeholders; and
 
@@ -14,7 +14,7 @@ Whereas, clarification and definition of open source, open data, privacy, securi
 
 Now therefore, the City of Boston Chief Information Officer (“CIO”), in consultation with City departments, is issuing the following two draft City of Boston policies:
 
-- [Open & Controlled Data Policy](OpenAndControlledDataPolicy.md);
+#[Open & Controlled Data Policy](OpenAndControlledDataPolicy.md);
 
 - This policy includes:
  1.      guidance for departments on the classification of their data sets as public or protected and a method to report such classification to the CIO. 
@@ -23,7 +23,7 @@ Now therefore, the City of Boston Chief Information Officer (“CIO”), in cons
  4.      guidelines for compliance with legal or other rules requiring the sharing of Protected Data with authorized parties upon the grant of consent, by operation of law or when otherwise so required;
  5.      a method to ensure approval by the Corporation Counsel of the City of Boston obtains to Protected Data disclosed in accordance with the Policy.
  
-- [Open Source License Policy](OpenSourceLicenseGuidelines.md);
+#[Open Source License Policy](OpenSourceLicenseGuidelines.md);
 
 - This policy includes:
  - the standards that will govern the City’s selection of an appropriate open source license;
