@@ -27,3 +27,6 @@ Now therefore, the City of Boston Chief Information Officer (“CIO”), in cons
  - sample alternative licenses that can be used for special cases.
 
 In keeping with the intent of these documents, these policies will be hosted on GitHub – or similar public site – so that interested parties can read them, recommend edits, and reuse them as interested.
+
+-------
+[Credits and Attributions](credits.md)
