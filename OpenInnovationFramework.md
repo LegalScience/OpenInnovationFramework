@@ -14,14 +14,18 @@ Whereas, clarification and definition of open source, open data, privacy, securi
 
 Now therefore, the City of Boston Chief Information Officer (“CIO”), in consultation with City departments, is issuing the following two draft City of Boston policies:
 
-- Open & Controlled Data Policy:  This policy includes:
+- [Open & Controlled Data Policy](OpenAndControlledDataPolicy.md);
+
+- This policy includes:
  1.      guidance for departments on the classification of their data sets as public or protected and a method to report such classification to the CIO. 
  2.      standards for the format and publishing of open data and guidance on accessibility, re-use and minimum documentation for such data;
  3.      standards on the management of Protected Data – such as certain health or education data, including guidance on security and other controls to safeguard Protected Data
  4.      guidelines for compliance with legal or other rules requiring the sharing of Protected Data with authorized parties upon the grant of consent, by operation of law or when otherwise so required;
  5.      a method to ensure approval by the Corporation Counsel of the City of Boston obtains to Protected Data disclosed in accordance with the Policy.
  
-- [Open Source License Policy](OpenSourceLicenseGuidelines.md);:  This policy includes:
+- [Open Source License Policy](OpenSourceLicenseGuidelines.md);
+
+- This policy includes:
  - the standards that will govern the City’s selection of an appropriate open source license;
  - OpenSourceLicenseGuidelines.md;
  - sample alternative licenses that can be used for special cases.
