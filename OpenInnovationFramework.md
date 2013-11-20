@@ -1,3 +1,5 @@
+DRAFT
+
 #Statement of Intent
 
 Whereas, it is the policy of the City of Boston to practice Open Government, favoring participation, transparency, collaboration and engagement with the people of the City and it’s stakeholders; and
@@ -25,6 +27,7 @@ Now therefore, the City of Boston Chief Information Officer (“CIO”), in cons
  
 #[Open Source License Policy](OpenSourceLicenseGuidelines.md);
 
+
 - This policy includes:
  - the standards that will govern the City’s selection of an appropriate open source license;
  - sample alternative licenses that can be used for special cases.
@@ -37,3 +40,6 @@ In keeping with the intent of these documents, these policies will be hosted on 
 
 -------
 [Credits and Attributions](credits.md)
+
+
+DRAFT
