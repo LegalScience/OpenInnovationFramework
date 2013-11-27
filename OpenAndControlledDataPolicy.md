@@ -50,7 +50,16 @@ The Legal Counsel may require granular and frequent publication approval or may 
 
 The Open Data Administrator shall maintain a running manifest of all data published, stipulations applicable to such data, if any, and other data that is in the process of preparation for approval and publication, or that has been prohibited to be published, and shall publish for internal access within City of Boston the contents of said manifest.
 
-This policy shall remain valid and effective unless and until it is repealed or amended.  
+This policy shall remain valid and effective unless and until it is repealed or amended. 
+
+Actors: Open Data Manager; Legal Counsel; City of Boston CIO, City of Boston Department, Data Steward; 
+
+Action: Approval or Prohibition to Publish Open Data-Set; Publication of Open Data-Set; Internal Publication of Data-Set Publication Manifest
+
+Approver: Legal Counsel
+
+Authoritative: Authoritative sources of law upon which this policy is based are [drafting note - this is a point in the policy that to cite or reference, e.g. the rules process governing publication or prohibiting disclosure of public records: http://www.sec.state.ma.us/pre/prepdf/guide.pdf ] 
+
 
  - [Back to the Open Innovation Framework](OpenInnovationFramework.md);
 
