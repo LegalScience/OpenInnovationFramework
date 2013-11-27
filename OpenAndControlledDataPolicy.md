@@ -59,7 +59,7 @@ Approver: Legal Counsel
 
 Authoritative: Authoritative sources of law upon which this policy is based are [drafting note - this is a point in the policy that to cite or reference, e.g. the rules process governing publication or prohibiting disclosure of public records: http://www.sec.state.ma.us/pre/prepdf/guide.pdf ] 
 
-Meta Information:  This file comprises the policy of City of Boston with respect to publication of Open Data-Sets on the City of Boston Open Data Platform.
+The content contained in this Github repository https://github.com/CityOfBoston/OpenInnovationFramework is sufficiently accurate and reliable such that the CIO deems it the official statement of Boston's Open Innovation Framework. The wiki version of this Open Government Framework may be referenced as an unofficial informational resource.
 
  - [Back to the Open Innovation Framework](OpenInnovationFramework.md);
 
