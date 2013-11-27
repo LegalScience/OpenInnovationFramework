@@ -1,6 +1,6 @@
 DRAFT
 
-#Statement of Intent
+#1. Statement of Intent
 
 Whereas, it is the policy of the City of Boston to practice Open Government, favoring participation, transparency, collaboration and engagement with the people of the City and it’s stakeholders; and
 
@@ -16,7 +16,7 @@ Whereas, clarification and definition of open source, open data, privacy, securi
 
 Now therefore, the City of Boston Chief Information Officer (“CIO”), in consultation with City departments, is issuing the following two draft City of Boston policies:
 
-#[Open & Controlled Data Policy](OpenAndControlledDataPolicy.md);
+#[2. Open & Controlled Data Policy](OpenAndControlledDataPolicy.md);
 
 - This policy includes:
  1.      guidance for departments on the classification of their data sets as public or protected and a method to report such classification to the CIO. 
@@ -25,7 +25,7 @@ Now therefore, the City of Boston Chief Information Officer (“CIO”), in cons
  4.      guidelines for compliance with legal or other rules requiring the sharing of Protected Data with authorized parties upon the grant of consent, by operation of law or when otherwise so required;
  5.      a method to ensure approval by the Corporation Counsel of the City of Boston obtains to Protected Data disclosed in accordance with the Policy.
  
-#[Open Source License Policy](OpenSourceLicenseGuidelines.md);
+#[3. Open Source License Policy](OpenSourceLicenseGuidelines.md);
 
 
 - This policy includes:
@@ -33,12 +33,15 @@ Now therefore, the City of Boston Chief Information Officer (“CIO”), in cons
  - sample alternative licenses that can be used for special cases.
  - the City of Boston "ShareBack" provision describing how to notify and provide innovative modifications or new code to the larger community;
 
-#[Guidelines on Use of GitHub for Policy Maintanance and Public Engagement](GitPol.md);
+#[4. Guidelines on Use of GitHub for Policy Maintanance and Public Engagement](GitPol.md);
 
 
 In keeping with the intent of these documents, these policies will be hosted on GitHub – or similar public site – so that interested parties can read them, recommend edits, and reuse them as appropriate.
 
 -------
+
+This Open Government Framework is accurate and reliable, and has been granted official status by the Boston CIO. The wiki version of this Open Government Framework is an unofficial informational resource.
+
 [Credits and Attributions](credits.md)
 
 
