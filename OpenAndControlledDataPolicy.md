@@ -2,7 +2,7 @@ DRAFT
 
 Open & Controlled Data Policy
 
-# Meta Information:  This file comprises the policy of City of Boston with respect to publication of Open Data-Sets on the City of Boston Open Data Platform.  
+Meta Information:  This file comprises the policy of City of Boston with respect to publication of Open Data-Sets on the City of Boston Open Data Platform.  
 
 City of Boston Open Data Policy
 
