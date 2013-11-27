@@ -40,7 +40,7 @@ In keeping with the intent of these documents, these policies will be hosted on 
 
 -------
 
-This Open Government Framework is accurate and reliable, and has been granted official status by the Boston CIO. The wiki version of this Open Government Framework is an unofficial informational resource.
+This Open Government Framework has been granted official status by the Boston CIO. It is an accurate and reliable statement of Boston CIO policy. The wiki version of this Open Government Framework may be referenced as an unofficial informational resource.
 
 [Credits and Attributions](credits.md)
 
