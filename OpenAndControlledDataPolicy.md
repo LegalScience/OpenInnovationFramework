@@ -2,7 +2,6 @@ DRAFT
 
 Open & Controlled Data Policy
 
-Meta Information:  This file comprises the policy of City of Boston with respect to publication of Open Data-Sets on the City of Boston Open Data Platform.  
 
 City of Boston Open Data Policy
 
@@ -60,6 +59,7 @@ Approver: Legal Counsel
 
 Authoritative: Authoritative sources of law upon which this policy is based are [drafting note - this is a point in the policy that to cite or reference, e.g. the rules process governing publication or prohibiting disclosure of public records: http://www.sec.state.ma.us/pre/prepdf/guide.pdf ] 
 
+Meta Information:  This file comprises the policy of City of Boston with respect to publication of Open Data-Sets on the City of Boston Open Data Platform.
 
  - [Back to the Open Innovation Framework](OpenInnovationFramework.md);
 
